@@ -37,7 +37,25 @@ https://github.com/Amoiensis/Pattern_Recognition
 ---------------------------------------
 | 训练样本数 | 特征数 |   Bayes  |    FLD   | Linear SVM |    MLP   |
 |:----------:|:------:|:--------:|:--------:|:----------:|:--------:|
-|    10+10   |   10   | 0.112205 | 0.145669 |  0.104331  | 0.122047 |
+|    10x10   |   10   | 0.112205 | 0.145669 |  0.104331  | 0.122047 |
 |            |    2   | 0.094488 | 0.125984 |  0.098425  | 0.104331 |
 |  Dataset3  |   10   |  0.09252 | 0.112205 |  0.090551  | 0.094488 |
 |            |    2   | 0.094488 | 0.094488 |  0.104331  | 0.090551 |
+
+[Example_SVM](https://github.com/Amoiensis/Pattern_Recognition/blob/master/_%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB_%E6%8A%A5%E5%91%8A.pdf)
+---------------------------------------
+#### SVM 不同核函数分类情况
+<center>
+    <img src="http://dreamofbook.qiniudn.com/Zero.png">
+</center>
+
+#### SVM 分类平面
+<figure class="half">
+    <img src="http://xxx.jpg">
+    <img src="http://yyy.jpg">
+</figure>
+
+### SVM原理与证明
+<center>
+    <img src="http://dreamofbook.qiniudn.com/Zero.png">
+</center>
