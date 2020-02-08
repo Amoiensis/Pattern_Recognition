@@ -51,8 +51,8 @@ https://github.com/Amoiensis/Pattern_Recognition
 
 ### SVM 分类平面
 <figure class="half">
-    <img src="https://github.com/Amoiensis/Pattern_Recognition/blob/master/_picture/svm_d2.png">
-    <img src="https://github.com/Amoiensis/Pattern_Recognition/blob/master/_picture/svm_d3.png">
+    <img src="https://github.com/Amoiensis/Pattern_Recognition/blob/master/_picture/svm_d2.png" width="200"/>
+    <img src="https://github.com/Amoiensis/Pattern_Recognition/blob/master/_picture/svm_d3.png" width="200"/>
 </figure>
 
 ### SVM原理与证明
