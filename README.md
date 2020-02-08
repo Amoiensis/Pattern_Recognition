@@ -35,7 +35,7 @@ https://github.com/Amoiensis/Pattern_Recognition
 
 [Result](https://github.com/Amoiensis/Pattern_Recognition/blob/master/_%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB_%E6%8A%A5%E5%91%8A.pdf)
 ---------------------------------------
-####（正确率）
+####（错误率-不同方法）
 
 | 训练样本数 | 特征数 |   Bayes  |    FLD   | Linear SVM |    MLP   |
 |:----------:|:------:|:--------:|:--------:|:----------:|:--------:|
