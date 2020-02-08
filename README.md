@@ -44,18 +44,19 @@ https://github.com/Amoiensis/Pattern_Recognition
 
 [Example_SVM](https://github.com/Amoiensis/Pattern_Recognition/blob/master/_%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB_%E6%8A%A5%E5%91%8A.pdf)
 ---------------------------------------
-#### SVM 不同核函数分类情况
+### SVM 不同核函数分类情况
 <center>
-    <img src="http://dreamofbook.qiniudn.com/Zero.png">
+    <img src="https://github.com/Amoiensis/Pattern_Recognition/blob/master/_picture/svm_kernel.png">
 </center>
 
-#### SVM 分类平面
+### SVM 分类平面
 <figure class="half">
-    <img src="http://xxx.jpg">
-    <img src="http://yyy.jpg">
+    <img src="https://github.com/Amoiensis/Pattern_Recognition/blob/master/_picture/svm_d2.png">
+    <img src="https://github.com/Amoiensis/Pattern_Recognition/blob/master/_picture/svm_d3.png">
 </figure>
 
 ### SVM原理与证明
 <center>
-    <img src="http://dreamofbook.qiniudn.com/Zero.png">
+    <img src="https://github.com/Amoiensis/Pattern_Recognition/blob/master/_picture/SVM_%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AF%81%E6%98%8E1.jpg">
+    <img src="https://github.com/Amoiensis/Pattern_Recognition/blob/master/_picture/SVM_%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AF%81%E6%98%8E2.jpg">
 </center>
