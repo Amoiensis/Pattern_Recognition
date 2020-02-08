@@ -1,4 +1,4 @@
-Pattern_Recognition
+Pattern Recognition
 =======================================
 Gender Classification based on Pattern Recognition. 
 ---------------------------------------
