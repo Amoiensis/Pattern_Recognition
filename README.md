@@ -49,7 +49,7 @@ https://github.com/Amoiensis/Pattern_Recognition
 ---------------------------------------
 ### SVM 不同核函数分类情况
 <center>
-    <img src="https://github.com/Amoiensis/Pattern_Recognition/blob/master/_picture/svm_kernel.png">
+    <img src="https://github.com/Amoiensis/Pattern_Recognition/blob/master/_picture/svm_kernel.png" width="600"/>
 </center>
 
 ### SVM 分类平面
