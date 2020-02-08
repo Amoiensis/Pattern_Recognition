@@ -56,7 +56,7 @@ https://github.com/Amoiensis/Pattern_Recognition
 <center>
 	<img src="https://github.com/Amoiensis/Pattern_Recognition/blob/master/_picture/svm_d2.png" width="500"/>    
     <img src="https://github.com/Amoiensis/Pattern_Recognition/blob/master/_picture/svm_d3.png" width="500"/>
-</figure>
+</center>
 
 ### SVM原理与证明
 <center>
