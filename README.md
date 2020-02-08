@@ -16,7 +16,7 @@ Data:2020.02.08
 https://github.com/Amoiensis/Pattern_Recognition
 ***************************************************************
 
-[CONTENT](https://github.com/Amoiensis/Operational-Research)
+[CONTENT](https://github.com/Amoiensis/Pattern_Recognition)
 ---------------------------------------
 0. [Thresholds---](https://github.com/Amoiensis/Pattern_Recognition/tree/master/Thresholds_Classification)   基于阈值判别
 
